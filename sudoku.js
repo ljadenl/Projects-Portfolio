@@ -84,8 +84,14 @@ function displayBoard(board) {
 function generateNewPuzzle(difficulty = (41)) {
     const board = Array.from({ length: 9 }, () => Array(9).fill(0));
     fillBoard(board);
+    // saves a copy for easy solving / debugging(uncomment 88,93, & 94)
+    // solutionBoard = board.map(row => [...row]);
+    
     removeCells(board, difficulty);
     displayBoard(board);
+
+    // console.log("Solution:");
+    // console.table(solutionBoard);
 }
 
 // Generate a puzzle on page load
