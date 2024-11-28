@@ -1,0 +1,5 @@
+This file is to show how to use the cipher decoder and encoder.
+
+DOWNLOAD ALL FILES, except the cipher executable (cipher.exe). You must clear the ouput.txt, and you must change or put something into the input.txt file. 
+
+TO RUN either compile with gcc or makefile.
