@@ -1,0 +1,27 @@
+[
+    { "metric": "4mm", "imperial": "5/32\""},
+    { "metric": "5mm", "imperial": "13/64\""},
+    { "metric": "6mm", "imperial": "15/64\""},
+    { "metric": "7mm", "imperial": "9/32\""},
+    { "metric": "8mm", "imperial": "5/16\""},
+    { "metric": "9mm", "imperial": "11/32\""},
+    { "metric": "10mm", "imperial": "3/8\""},
+    { "metric": "11mm", "imperial": "7/16\""},
+    { "metric": "12mm", "imperial": "15/32\""},
+    { "metric": "13mm", "imperial": "1/2\""},
+    { "metric": "14mm", "imperial": "9/16\""},
+    { "metric": "15mm", "imperial": "19/32\""},
+    { "metric": "16mm", "imperial": "5/8\""},
+    { "metric": "17mm", "imperial": "11/16\""},
+    { "metric": "18mm", "imperial": "11/16\""},
+    { "metric": "19mm", "imperial": "3/4\""},
+    { "metric": "20mm", "imperial": "25/32\""},
+    { "metric": "21mm", "imperial": "13/16\""},
+    { "metric": "22mm", "imperial": "7/8\""},
+    { "metric": "23mm", "imperial": "29/32\""},
+    { "metric": "24mm", "imperial": "15/16\""},
+    { "metric": "25mm", "imperial": "1\""}
+
+
+  ]
+  
